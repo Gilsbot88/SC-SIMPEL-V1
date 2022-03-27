@@ -1,5 +1,5 @@
 exports.ml = (prefix) => {
 return `*- DIAMOND MOBILE LEGEND*
 
-_Isi sendiri_`
+_Coming soon gaes_`
 }
