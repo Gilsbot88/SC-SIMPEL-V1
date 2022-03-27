@@ -1,5 +1,5 @@
 exports.pubg = (prefix) => {
 return `*- DIAMOND PUBG*
 
-_Isi sendiri_`
+_Coming soon gaes_`
 }
