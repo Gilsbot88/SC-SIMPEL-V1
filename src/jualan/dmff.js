@@ -1,5 +1,5 @@
 exports.ff = (prefix) => {
 return `*- DIAMOND FREE FIRE*
 
-_Isi sendiri_`
+_Coming soon gaes_`
 }
